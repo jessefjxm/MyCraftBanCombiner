@@ -1,0 +1,17 @@
+mysql:
+  host: localhost
+  database: mc_mycraft
+  tablename: 'bm3_players'
+  username: mclogblock
+  password: 'ZGfXLH7qRSuDMpqe'
+  port: 3306
+
+tables:
+#  - bm3_player_bans_new
+  - bm3_player_bans
+  - bm3_player_ban_records
+  - bm3_player_kicks
+  - bm3_player_mutes
+  - bm3_player_mute_records
+  - bm3_player_warnings
+  - bm_player_history

@@ -1,0 +1,7 @@
+name: MyCraftBanCombiner
+main: com.mycraft.MyCraftBanCombiner.MyCraftBanCombiner
+version: 1.0
+author: Jessefjxm
+commands:
+  MyCraftBanCombiner:
+    description: MyCraftBanCombiner
